@@ -1,0 +1,8 @@
+{
+  "name": "Remix plotify-b",
+  "description": "Imported from GitHub: syedhassanabdullah36-sketch/plotify-b",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
